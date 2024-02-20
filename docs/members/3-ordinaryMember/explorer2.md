@@ -6,7 +6,7 @@ layout: doc
 _________________
 【年龄】高一牲
 
-【技能】c，ChatGPT😂，Windows基本上玩明白了，liunx懂一点
+【技能】c，ChatGPT😂，Windows基本上玩明白了，linux懂一点
 
 【爱好】c/cpp，Minecraft！原神启动?
 
