@@ -1,5 +1,6 @@
 ---
 layout: doc
+comment: false
 ---
 <!-- markdownlint-disable MD033 -->
 # 群规 <Badge type="danger" text="Warning" />
