@@ -17,7 +17,9 @@ export default defineConfig({
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     logo: "/img/logo.png", // 页面上显示的logo
-    lastUpdatedText: "最近更新时间",
+    lastUpdated: {
+      text: '最后更新于'
+    },
     nav: [ // 页面右上角的导航
       { text: "主页", link: "/" },
       { text: "成员", link: "/members/" },
