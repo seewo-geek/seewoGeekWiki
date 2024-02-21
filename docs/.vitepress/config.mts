@@ -34,6 +34,10 @@ export default defineConfig({
       pattern: 'https://github.com/seewo-geek/seewoGeekWiki/edit/main/docs/:path',
       text: '在GitHub上编辑此页'
     },
+    docFooter: {
+      prev: '上一页',
+      next: '下一页'
+    },
     socialLinks: [
       { icon: {
           svg: '<svg fill="#000000" width="800px" height="800px" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">\n' +
