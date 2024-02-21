@@ -1,5 +1,6 @@
 ---
 layout: doc
+comment: false
 ---
 # 群规 <Badge type="danger" text="Warning" />
 ### 群内禁止讨论梯Z有关内容，禁止发广告、助力、推广、人头车等类似宣传，禁止发布H，恐内容。
