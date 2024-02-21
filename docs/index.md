@@ -2,11 +2,11 @@
 # https://vitepress.dev/reference/default-theme-home-page
 layout: home
 
-title: SEEWO GEEK
+title: SEEWO_GEEK
 titleTemplate: 希沃业绩售后冲击部官方 Wiki
 
 hero:
-  name: SEEWO GEEK
+  name: SEEWO_GEEK
   text: </dev>
   tagline: 希沃业绩售后冲击部官方 Wiki
   image:
