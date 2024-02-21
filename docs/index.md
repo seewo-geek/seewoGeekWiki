@@ -2,13 +2,13 @@
 # https://vitepress.dev/reference/default-theme-home-page
 layout: home
 
-title: SEEWO_GEEK
-titleTemplate: 希沃业绩售后冲击部官方wiki
+title: SEEWO GEEK
+titleTemplate: 希沃业绩售后冲击部官方 Wiki
 
 hero:
-  name: SEEWO_GEEK
+  name: SEEWO GEEK
   text: </dev>
-  tagline: 希沃业绩售后冲击部官方wiki
+  tagline: 希沃业绩售后冲击部官方 Wiki
   image:
     src: /img/logo.svg
     alt: logo
@@ -34,6 +34,6 @@ features:
     link: ./rules/
   - icon: 🛠️
     title: 开发团队
-    details: 这是维护本wiki的团队寄贡献者
+    details: 这是维护本 Wiki 的团队寄贡献者
     link: ./aboutus/
 ---

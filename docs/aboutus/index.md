@@ -1,6 +1,7 @@
 ---
 layout: page
 ---
+<!-- markdownlint-disable MD033 -->
 <script setup>
 import {
   VPTeamPage,
@@ -13,7 +14,7 @@ const members = [
     avatar: 'http://q1.qlogo.cn/g?b=qq&nk=2797512412&s=640',
     name: '白熊',
     title: 'Coder',
-    desc: 'Wiki构建者',
+    desc: 'Wiki 构建者',
     links: [
       { icon: 'github', link: 'https://github.com/0wwind' }
     ]
@@ -43,7 +44,7 @@ const members = [
     avatar: 'http://q1.qlogo.cn/g?b=qq&nk=2737914384&s=640',
     name: '小蔡',
     title: 'Coder',
-    desc: '旧Wiki的编写者，相信他很快就会加入新Wiki的开发',
+    desc: '旧 Wiki 的编写者，相信他很快就会加入新 Wiki 的开发',
     links: [
       {
         icon: {
@@ -58,8 +59,8 @@ const contributer = [
   {
     avatar: 'http://q1.qlogo.cn/g?b=qq&nk=3188597503&s=640',
     name: 'InitialXE',
-    title: 'LOGO设计者',
-    desc: '设计了Wiki的logo',
+    title: 'Logo 设计者',
+    desc: '设计了 Wiki 的 Logo',
     links: [
       {
         icon: {
@@ -95,7 +96,7 @@ const contributer = [
       贡献者
     </template>
     <template #lead>
-      感谢为本Wiki做的贡献
+      感谢为本 Wiki 做的贡献
     </template>
   </VPTeamPageTitle>
   <VPTeamMembers
