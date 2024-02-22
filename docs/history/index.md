@@ -2,6 +2,10 @@
 layout: doc
 comment: false
 ---
+::: timeline 2023-07-08
+- 入群测试1.0正式上线
+:::
+
 ::: timeline 2024-02-20
 - 新Wiki上线
 :::
