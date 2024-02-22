@@ -44,7 +44,7 @@ export default defineConfig({
     },
     editLink: {
       pattern: 'https://github.com/seewo-geek/seewoGeekWiki/edit/main/docs/:path',
-      text: '在GitHub上编辑此页'
+      text: '在 GitHub 上编辑此页'
     },
     docFooter: {
       prev: '上一页',
