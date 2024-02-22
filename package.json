@@ -2,6 +2,7 @@
   "devDependencies": {
     "vite-plugin-vitepress-auto-sidebar": "^1.6.2",
     "vitepress": "^1.0.0-rc.44",
+    "vitepress-markdown-timeline": "^1.2.1",
     "vitepress-plugin-comment-with-giscus": "^1.1.12"
   },
   "scripts": {

@@ -5,7 +5,7 @@ import DefaultTheme from 'vitepress/theme'
 import './style.css'
 import giscusTalk from 'vitepress-plugin-comment-with-giscus'
 import { useData, useRoute } from 'vitepress'
-
+import "vitepress-markdown-timeline/dist/theme/index.css"
 export default {
   extends: DefaultTheme,
   Layout: () => {

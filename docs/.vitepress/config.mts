@@ -1,5 +1,6 @@
 import { defineConfig } from 'vitepress'
 import AutoSidebar from 'vite-plugin-vitepress-auto-sidebar'
+import timeline from "vitepress-markdown-timeline"
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
@@ -14,6 +15,15 @@ export default defineConfig({
   head: [
     ['link', { rel: 'icon', href: '/img/logo.png' }],
   ],
+  markdown: {
+    //行号显示
+    lineNumbers: true,
+
+    //时间线
+    config: (md) => {
+      md.use(timeline);
+    },
+  },
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     logo: "/img/logo.png", // 页面上显示的logo
@@ -24,6 +34,7 @@ export default defineConfig({
       { text: "主页", link: "/" },
       { text: "成员", link: "/members/" },
       { text: "群规", link: "/rules/" },
+      { text: "历史", link: "/history/" },
       { text: "开发团队", link: "/aboutus/" }
     ],
     footer: {
