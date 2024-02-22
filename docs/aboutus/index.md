@@ -48,7 +48,7 @@ const members = [
     avatar: 'http://q1.qlogo.cn/g?b=qq&nk=2737914384&s=640',
     name: '小蔡',
     title: 'Coder',
-    desc: '旧 Wiki 的编写者，相信他很快就会加入新 Wiki 的开发',
+    desc: '第一代入群测试&群机器管理开发者',
     sponsor:'/members/1-coreMembers/小蔡.md',
     actionText:'查看他的Wiki',
     links: [
