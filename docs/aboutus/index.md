@@ -15,6 +15,8 @@ const members = [
     name: '白熊',
     title: 'Coder',
     desc: 'Wiki 构建者',
+    sponsor:'/members/1-coreMembers/白熊.md',
+    actionText:'查看他的Wiki',
     links: [
       { icon: 'github', link: 'https://github.com/0wwind' }
     ]
@@ -24,6 +26,8 @@ const members = [
     name: '今天吃什么',
     title: 'Maintainer',
     desc: '富哥钉佬是一名很好的运维',
+    sponsor:'/members/1-coreMembers/钉佬.md',
+    actionText:'查看他的Wiki',
     links: [
       { icon: 'github', link: 'https://github.com/xiaowuap' },
       {
@@ -45,6 +49,8 @@ const members = [
     name: '小蔡',
     title: 'Coder',
     desc: '旧 Wiki 的编写者，相信他很快就会加入新 Wiki 的开发',
+    sponsor:'/members/1-coreMembers/小蔡.md',
+    actionText:'查看他的Wiki',
     links: [
       {
         icon: {
@@ -61,6 +67,8 @@ const contributer = [
     name: 'InitialXE',
     title: 'Logo 设计者',
     desc: '设计了 Wiki 的 Logo',
+    sponsor:'/members/2-importantMembers/贤狼白子.md',
+    actionText:'查看他的Wiki',
     links: [
       {
         icon: {
@@ -86,8 +94,10 @@ const contributer = [
   },
   {
     avatar: 'http://q1.qlogo.cn/g?b=qq&nk=3395314362&s=640',
-    name: '落雪无痕LxHHT',
+    name: '落雪无痕LxHTT',
     desc: '修复了一些bug',
+    sponsor:'/members/2-importantMembers/落雪无痕LxHTT.md',
+    actionText:'查看他的Wiki',
     links: [
       { icon: 'github', link: 'https://github.com/LxHTT' }
     ]

@@ -35,7 +35,8 @@ export default defineConfig({
       { text: "成员", link: "/members/" },
       { text: "群规", link: "/rules/" },
       { text: "历史", link: "/history/" },
-      { text: "开发团队", link: "/aboutus/" }
+      { text: "名人堂", link: "/HoF/" },
+      { text: "开发团队", link: "/aboutus/" },
     ],
     footer: {
       message: 'Released under the MIT License.',

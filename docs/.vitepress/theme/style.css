@@ -44,6 +44,12 @@
  * -------------------------------------------------------------------------- */
 
  :root {
+
+  --vp-c-sponsor: rgba(0, 215, 255, 0.7);
+  .vpi-heart {
+      --icon: url('/img/logo.png');
+  }
+
   --vp-c-default-1: var(--vp-c-gray-1);
   --vp-c-default-2: var(--vp-c-gray-2);
   --vp-c-default-3: var(--vp-c-gray-3);
