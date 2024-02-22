@@ -1,7 +1,8 @@
 ---
 layout: page
 ---
-<!-- markdownlint-disable MD033 -->
+
+<!-- markdownlint-disable MD033 MD041 -->
 <script setup>
 import {
   VPTeamPage,
@@ -15,8 +16,8 @@ const members = [
     name: '白熊',
     title: 'Coder',
     desc: 'Wiki 构建者',
-    sponsor:'/members/1-coreMembers/白熊.md',
-    actionText:'查看他的Wiki',
+    sponsor: '/members/1-coreMembers/白熊.md',
+    actionText: '查看他的 Wiki',
     links: [
       { icon: 'github', link: 'https://github.com/0wwind' }
     ]
@@ -26,8 +27,8 @@ const members = [
     name: '今天吃什么',
     title: 'Maintainer',
     desc: '富哥钉佬是一名很好的运维',
-    sponsor:'/members/1-coreMembers/钉佬.md',
-    actionText:'查看他的Wiki',
+    sponsor: '/members/1-coreMembers/钉佬.md',
+    actionText: '查看他的 Wiki',
     links: [
       { icon: 'github', link: 'https://github.com/xiaowuap' },
       {
@@ -49,8 +50,8 @@ const members = [
     name: '小蔡',
     title: 'Coder',
     desc: '第一代入群测试&群机器管理开发者',
-    sponsor:'/members/1-coreMembers/小蔡.md',
-    actionText:'查看他的Wiki',
+    sponsor: '/members/1-coreMembers/小蔡.md',
+    actionText: '查看他的 Wiki',
     links: [
       {
         icon: {
@@ -67,8 +68,8 @@ const contributer = [
     name: 'InitialXE',
     title: 'Logo 设计者',
     desc: '设计了 Wiki 的 Logo',
-    sponsor:'/members/2-importantMembers/贤狼白子.md',
-    actionText:'查看他的Wiki',
+    sponsor: '/members/2-importantMembers/贤狼白子.md',
+    actionText: '查看他的 Wiki',
     links: [
       {
         icon: {
@@ -85,9 +86,11 @@ const contributer = [
     ]
   },
   {
-    avatar: 'http://q1.qlogo.cn/g?b=qq&nk=3068342155&s=640',
-    name: 'XieXiLin',
-    desc: 'add auto assign and upd run config, also format this wiki',
+    avatar: 'https://cravatar.cn/avatar/8DB351BF50CF41289B1C5C5D726C55D3?s=256',
+    name: 'セシリア',
+    desc: '格式化规范',
+    sponsor: 'members/3-ordinaryMembers/XieXiLin',
+    actionText: '查看他的 Wiki',
     links: [
       { icon: 'github', link: 'https://github.com/XieXiLin2' }
     ]
@@ -96,8 +99,8 @@ const contributer = [
     avatar: 'http://q1.qlogo.cn/g?b=qq&nk=3395314362&s=640',
     name: '落雪无痕LxHTT',
     desc: '修复了一些bug',
-    sponsor:'/members/2-importantMembers/落雪无痕LxHTT.md',
-    actionText:'查看他的Wiki',
+    sponsor: '/members/2-importantMembers/落雪无痕LxHTT.md',
+    actionText: '查看他的 Wiki',
     links: [
       { icon: 'github', link: 'https://github.com/LxHTT' }
     ]
