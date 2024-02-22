@@ -27,14 +27,6 @@ const BBC = [
     actionText:'查看他的Wiki',
   },
   {
-    avatar: 'http://q1.qlogo.cn/g?b=qq&nk=2737914384&s=640',
-    name: '小蔡',
-    title: '怎么你也学坏了',
-    desc: '不正经的管理',
-    sponsor:'/members/1-coreMembers/小蔡.md',
-    actionText:'查看他的Wiki',
-  },
-  {
     avatar: 'http://q1.qlogo.cn/g?b=qq&nk=1749425742&s=100',
     name: 'dfnn',
     title: '新晋成员',
