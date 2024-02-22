@@ -76,6 +76,22 @@ const contributer = [
       },
     ]
   },
+  {
+    avatar: 'http://q1.qlogo.cn/g?b=qq&nk=3068342155&s=640',
+    name: 'XieXiLin',
+    desc: 'add auto assign and upd run config, also format this wiki',
+    links: [
+      { icon: 'github', link: 'https://github.com/XieXiLin2' }
+    ]
+  },
+  {
+    avatar: 'http://q1.qlogo.cn/g?b=qq&nk=3395314362&s=640',
+    name: '落雪无痕LxHHT',
+    desc: '修复了一些bug',
+    links: [
+      { icon: 'github', link: 'https://github.com/LxHTT' }
+    ]
+  },
 ]
 </script>
 
