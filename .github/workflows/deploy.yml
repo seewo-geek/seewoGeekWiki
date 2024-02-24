@@ -13,11 +13,11 @@ jobs:
       - uses: actions/setup-node@v3
         with:
           node-version: 16
-      - run: npm i pnpm -g
-      - run: pnpm install --no-frozen-lockfile
+      - run: npm i yarn -g
+      - run: yarn install --no-frozen-lockfile
 
       - name: Build
-        run: pnpm docs:build
+        run: yarn docs:build
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
