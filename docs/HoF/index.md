@@ -70,6 +70,27 @@ const Nantong = [
   },
 ];
 
+const AmoyThreeBully = [
+  {
+    avatar: 'http://q1.qlogo.cn/g?b=qq&nk=3363880992&s=640',
+    name: '钉佬',
+    sponsor:'/members/1-coreMembers/钉佬.md',
+    actionText:'查看他的Wiki',
+  },
+  {
+    avatar: 'http://q1.qlogo.cn/g?b=qq&nk=2797512412&s=640',
+    name: '白熊',
+    sponsor:'/members/1-coreMembers/白熊.md',
+    actionText:'查看他的Wiki',
+  },
+  {
+    avatar: 'http://q1.qlogo.cn/g?b=qq&nk=941651914&s=640',
+    name: 'Etern',
+    sponsor:'/members/1-coreMembers/Etern.md',
+    actionText:'查看他的Wiki',
+  },
+];
+
 </script>
 
 <VPTeamPage>
@@ -108,4 +129,14 @@ const Nantong = [
   <VPTeamMembers
     :members="Nantong"
   />
+
+  <VPTeamPageTitle>
+    <template #title>
+      厦门三恶霸
+    </template>
+  </VPTeamPageTitle>
+  <VPTeamMembers
+    :members="AmoyThreeBully"
+  />
+
 </VPTeamPage>
