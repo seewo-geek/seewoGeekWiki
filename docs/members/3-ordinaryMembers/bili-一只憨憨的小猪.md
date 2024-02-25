@@ -9,13 +9,21 @@ ___
 ### 简介
 
 > 高二学牲
+> 
 > 啥都有涉猎，但都不是很精通，只能说是都懂一点
+> 
 > 在学校人缘还行
+> 
 > 接触过`Python` 、 `C#`，但是玩的不是很明白
+> 
 > 平时在B站不定时直播，还做一些[低创视频](https://space.bilibili.com/403805887) <Badge type="warning" text="黑历史删了一些但不多" />
+
 > Steam搜[pooh_piggy](https://steamcommunity.com/id/pooh_piggy)应该能加到我（Wheatly头像的那个）
+> 
 > 手上有CH341A，有群友想刷BIOS可以找我（
+> 
 > 家里一堆电子垃圾不知道怎么处理（
+> 
 > ~~想被主人奖励~~（bushi）
 
 ### 设备
