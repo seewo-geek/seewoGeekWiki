@@ -34,6 +34,6 @@ features:
     link: ./rules/
   - icon: 🛠️
     title: 开发团队
-    details: 这是维护本 Wiki 的团队寄贡献者
+    details: 这是维护本 Wiki 的团队及贡献者
     link: ./aboutus/
 ---
