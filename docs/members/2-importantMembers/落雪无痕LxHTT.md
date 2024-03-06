@@ -26,8 +26,10 @@ ___
 ### 项目
 
 - [MCServerLauncher 2](https://mcsl.com.cn) <Badge type="info" text="基于 PyQt5 的MC开服器" />
-- [MCSL-Sync](https://github.com/MCSLTeam/MCSL-Sync) <Badge type="warning" text="不做性能优化不罢休" />
+- [MCSL-Sync-Backend](https://github.com/MCSLTeam/MCSL-Sync-Backend) <Badge type="info" text="MC 服务器核心镜像同步后端" /> <Badge type="warning" text="不做性能优化不罢休了" />
 - [MEFrp-Launcher-Qt](https://github.com/LxHTT/MEFrp-Launcher-Qt)
+
+GitHub：<https://github.com/LxHTT>
 
 ### 设备
 
