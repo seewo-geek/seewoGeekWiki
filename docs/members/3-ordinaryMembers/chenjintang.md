@@ -1,6 +1,5 @@
 # chenjintang
 
-![image-20240312002131987](C:\Users\jimmy\AppData\Roaming\Typora\typora-user-images\image-20240312002131987.png)
 
 【年龄】初一
 
