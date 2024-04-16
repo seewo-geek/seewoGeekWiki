@@ -17,7 +17,7 @@ ___
 >
 > ~~群rbq，有时候会发电~~
 >
-> ~~刷机 90% 变砖头~~
+> ~~刷机 80% 变砖头~~
 
 ### 编程语言
 
@@ -35,6 +35,7 @@ GitHub：<https://github.com/LxHTT>
 
 - 华为 MateStation B515 + GTX 1050 Ti **矿卡😅**
 - MacBook Air ( Early 2014 )
-- iPhone 6s 32GB ~~**极致の钉子户😅**~~
+~~ - iPhone 6s 32GB **极致の钉子户😅**~~
+- iPhone 11 256GB
 
 ___
