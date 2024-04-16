@@ -27,9 +27,9 @@ ___
 
 - [MCServerLauncher 2](https://mcsl.com.cn) <Badge type="info" text="基于 PyQt5 的MC开服器" />
 - MCSL-Sync <Badge type="info" text="MC 服务器核心镜像站" />
-> [Backend 后端](https://github.com/MCSLTeam/MCSL-Sync-Backend)
-> [Nodeside 节点端](https://github.com/MCSLTeam/MCSL-Sync-Nodeside)
-> [Frontend 前端](https://github.com/MCSLTeam/MCSL-Sync-Frontend)
+> [Backend 后端](https://github.com/MCSLTeam/MCSL-Sync-Backend)  
+> [Nodeside 节点端](https://github.com/MCSLTeam/MCSL-Sync-Nodeside)  
+> [Frontend 前端](https://github.com/MCSLTeam/MCSL-Sync-Frontend)  
 - [MEFrp-Launcher-Qt](https://github.com/LxHTT/MEFrp-Launcher-Qt)
 
 GitHub：<https://github.com/LxHTT>
