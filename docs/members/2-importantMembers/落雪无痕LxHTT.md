@@ -29,7 +29,7 @@ Or [lxhtt@vip.qq.com](mailto:lxhtt@vip.qq.com)
 MCServerLauncher Future 系列 <Badge type="info" text="基于 C# 的新一代服务器管理工具" />
 > [.NET Framework C# WPF 启动器 及 .NET C# 守护进程](https://github.com/MCSLTeam/MCServerLauncher-Future)  
 > [Vue 网页面板](https://github.com/MCSLTeam/MCServerLauncher-Future-Web)  
-> Rust 守护进程（Private）
+> [Rust 守护进程](https://github.com/MCSLTeam/mcsl-daemon-rs)  
   
 MCSL-Sync 系列 <Badge type="info" text="MC 服务器核心镜像站" />
 > [Backend 后端](https://github.com/MCSLTeam/MCSL-Sync-Backend)  
