@@ -49,7 +49,7 @@ const members = [
     avatar: 'http://q1.qlogo.cn/g?b=qq&nk=2737914384&s=640',
     name: '小蔡',
     title: 'Coder',
-    desc: '第一代入群测试&群机器管理开发者',
+    desc: '第一代入群测试 & 群机器管理开发者',
     sponsor: '/members/1-coreMembers/小蔡.md',
     actionText: '查看他的 Wiki',
     links: [
@@ -86,8 +86,8 @@ const contributer = [
     ]
   },
   {
-    avatar: 'https://cravatar.cn/avatar/8DB351BF50CF41289B1C5C5D726C55D3?s=256',
-    name: 'セシリア',
+    avatar: 'https://cravatar.cn/avatar/2defd5540f480625cf9d09e5d4c3b7c4?s=256',
+    name: 'XieXiLin',
     desc: '格式化规范',
     sponsor: 'members/3-ordinaryMembers/XieXiLin',
     actionText: '查看他的 Wiki',

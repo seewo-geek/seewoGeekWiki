@@ -11,7 +11,7 @@ export default defineConfig({
     ]
   },
   title: "seewoGeekWiki",
-  description: "希沃售后冲击部官方Wiki",
+  description: "希沃售后冲击部官方 Wiki",
   head: [
     ['link', { rel: 'icon', href: '/img/logo.png' }],
   ],
