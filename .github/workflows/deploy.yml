@@ -9,17 +9,24 @@ jobs:
   deploy:
     runs-on: self-hosted
     steps:
-      - uses: actions/checkout@v2
-      - uses: actions/setup-node@v3
+      - name: Checkout 🛎️
+        uses: actions/checkout@v2
+
+      - name: Setup Node.js 🔗
+        uses: actions/setup-node@v3
         with:
           node-version: 20.11.0
-      - run: npm i yarn -g
-      - run: yarn install --no-frozen-lockfile
 
-      - name: Build
+      - name: Install yarn 🔧
+        run: npm i yarn -g
+
+      - name: Install Dependencies ⚙️
+        run: yarn install --no-frozen-lockfile
+
+      - name: Build Vitepress 🏗️
         run: yarn docs:build
 
-      - name: Deploy
+      - name: Deploy 🚀
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
