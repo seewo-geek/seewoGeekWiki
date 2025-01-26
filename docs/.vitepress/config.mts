@@ -34,7 +34,7 @@ export default defineConfig({
       { text: "主页", link: "/" },
       { text: "成员", link: "/members/" },
       { text: "群规", link: "/rules/" },
-      { text: "seewo工具", link: "/tools/" },
+      { text: "Seewo工具", link: "/tools/" },
       { text: "历史", link: "/history/" },
       { text: "名人堂", link: "/HoF/" },
       { text: "开发团队", link: "/aboutus/" },

@@ -19,9 +19,13 @@ comment: false
 :::
 
 ::: timeline 2024-02-21
-- 引入giscus作为评论系统
+- 引入Giscus作为评论系统
 :::
 
 ::: timeline 2024-02-22
 - HoF名人堂成立
+:::
+
+::: timeline 2025-01-05
+- 添加Seewo工具页
 :::
