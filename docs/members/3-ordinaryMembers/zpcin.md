@@ -26,9 +26,9 @@
 - 技展电源  
 - FM1接口CPU ×3  
 - MSI 9600GSO显卡（已损坏）  
-- iPhone 6s Plus  
+- iPhone 6s Plus 16GB  
 - iPad mini2  
-- 长江存储TiPlus600 1TB QLC  
+- 长江存储Ti600 1TB QLC  
 - 西数红盘SMR  
 - 杂牌Ventoy U盘  
 - 小米手环9 NFC版  
