@@ -15,5 +15,25 @@
 - **和能说到一起的人聊天（太少了）**
 ## 性格
 内向
+## 配置
+- OPPO Find X2  
+- MacBook Air 2015初（A1466）  
+- AMD Ryzen 5 8500G  
+- 技嘉B650M主板  
+- 金士顿Fury 8GB×2 DDR5  
+- 利民TL-C8015风扇  
+- 金河田电源  
+- 技展电源  
+- FM1接口CPU ×3  
+- MSI 9600GSO显卡（已损坏）  
+- iPhone 6s Plus  
+- iPad mini2  
+- 长江存储TiPlus600 1TB QLC  
+- 西数红盘SMR  
+- 杂牌Ventoy U盘  
+- 小米手环9 NFC版  
+- TP-Link 300Mbps WiFi4路由器  
+- 红米AX6S路由器  
+- GL.iNet AX1800路由器
 ## 其他
 其实我们小县城接触不到这这群主要讨论的东西，不让碰，还好我们初中希沃系统挺干净。
