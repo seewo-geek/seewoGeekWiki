@@ -16,24 +16,26 @@
 ## 性格
 内向
 ## 配置
-- OPPO Find X2  
-- MacBook Air 2015初（A1466）  
-- AMD Ryzen 5 8500G  
-- 技嘉B650M主板  
-- 金士顿Fury 8GB×2 DDR5  
-- 利民TL-C8015风扇  
-- 金河田电源  
-- 技展电源  
-- FM1接口CPU ×3  
-- MSI 9600GSO显卡（已损坏）  
-- iPhone 6s Plus 16GB  
-- iPad mini2  
-- 长江存储Ti600 1TB QLC  
-- 西数红盘SMR  
-- 杂牌Ventoy U盘  
-- 小米手环9 NFC版  
-- TP-Link 300Mbps WiFi4路由器  
-- 红米AX6S路由器  
-- GL.iNet AX1800路由器
+- OPPO Find X2
+- MacBook Air2015初 A1466
+- NVIDIA GeForce 9600 GSO 512
+- AMD Athlon(tm) Il X4 641 Quad-Core Processor (x4)
+- AMD 8500G
+- 技嘉B650 M
+- 金士顿Fury 8GB*2
+- 利民TL8015风扇一个
+- 老金河田电源
+- 老技展电源
+- 另外两块fm1 cpu
+- 还有一块坏了的9600GSO msi的谁知道什么核心
+- 还有一个吃灰的iPhone6sp
+- 小时候让我一屁股坐碎的iPad mini2
+- 一块长江存储Ti600 500GB qlc
+- 一块西数红盘smr
+- 一块杂牌的ventoy U盘
+- 小米手环9 NFC
+- 路由器垃圾300MbpsWiFi4 tp-link
+- 红米AX6S
+- GLiNet AX1800
 ## 其他
 其实我们小县城接触不到这这群主要讨论的东西，不让碰，还好我们初中希沃系统挺干净。
