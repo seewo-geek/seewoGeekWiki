@@ -21,14 +21,14 @@
 - AMD Ryzen 5 8500G  
 - 技嘉B650M主板  
 - 金士顿Fury 8GB×2 DDR5  
-- 利民TL-C8015风扇  
+- 利民TL8015风扇  
 - 金河田电源  
 - 技展电源  
 - FM1接口CPU ×3  
 - MSI 9600GSO显卡（已损坏）  
 - iPhone 6s Plus 16GB  
 - iPad mini2  
-- 长江存储Ti600 1TB QLC  
+- 长江存储Ti600 500GB QLC  
 - 西数红盘SMR  
 - 杂牌Ventoy U盘  
 - 小米手环9 NFC版  
