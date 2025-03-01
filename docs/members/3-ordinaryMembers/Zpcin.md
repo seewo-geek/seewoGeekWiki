@@ -1,7 +1,7 @@
 # 溪夏坡Zpcin (Zpcin Zhang)
 ![An image](http://q1.qlogo.cn/g?b=qq&nk=1585893341&s=160)
 ## 身份
-小县城初中生 2022级，你群baka
+东北小县城初中生 2022级，你群baka
 ## 成绩
 不要说了嘛，比大部分人好
 ## 技能
