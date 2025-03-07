@@ -1,7 +1,7 @@
 # 溪夏坡Zpcin (Zpcin Zhang)
 ![An image](http://q1.qlogo.cn/g?b=qq&nk=1585893341&s=160)
 ## 身份
-小县城初中生 2022级，你群baka
+东北小县城初中生 2022级，你群baka
 ## 成绩
 不要说了嘛，比大部分人好
 ## 技能
@@ -25,6 +25,7 @@
 - 金士顿Fury 8GB*2
 - 利民TL8015风扇一个
 - 老金河田电源
+- Raspberry Pi 400
 - 老技展电源
 - 另外两块fm1 cpu
 - 还有一块坏了的9600GSO msi的谁知道什么核心
