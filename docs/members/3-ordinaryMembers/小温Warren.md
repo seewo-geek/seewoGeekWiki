@@ -1,7 +1,8 @@
 # <Badge type="info" text="群友" /> 小温Warren
 
-![你的头像](https://img.picui.cn/free/2025/06/01/683c1c53d3cdf.jpg)
-Ciallo～(∠・ω< )⌒★ 这里是大概算是一个Geek的小温
+![头像](https://img.picui.cn/free/2025/06/01/683c1c53d3cdf.jpg)
+Ciallo～(∠・ω< )⌒★ 这里是大概算是一个Geek的小温  
+PS:头像不是本人哦！是沐笙老师的橘子小狗！ [是沐笙哦](https://space.bilibili.com/88811434)
 ## 🍓 基本情况：
 
 - 🎈 **身份**： [一只普通学生党]
@@ -48,9 +49,10 @@ Ciallo～(∠・ω< )⌒★ 这里是大概算是一个Geek的小温
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ## 📱 其他平台：
-- **Bilibili**： [小温Warren的个人空间](https://bilibili.com/space/3546691953232435)  
+- **Bilibili**： [小温Warren的个人空间](https://space.bilibili.com/3546691953232435)  
 - **邮箱**： [surprise-hang@outlook.com](mailto:surprise-hang@outlook.com)
-
+- ~~话说你怎么知道我b站累计播放破100万了uwu~~
+![小奖牌](https://img.picui.cn/free/2025/06/01/683c2af2457f0.jpg)
 ---
 
 *最后更新：2025年6月1日*
