@@ -1,11 +1,11 @@
 # Etern
-![An image](http://q1.qlogo.cn/g?b=qq&nk=941651914&s=160)
+![Avatar](http://q1.qlogo.cn/g?b=qq&nk=941651914&s=160)
 
 ## 概述
 
 ~~厦门三恶霸之一~~
 
-准大一牲
+25级本科牲
 
 除了编程还学过素描速写 弹钢琴吹小号`后两者已经忘了`
 
@@ -55,6 +55,13 @@ Java 狂热爱好者
 > - 在网上攻击性有点高
 ## AI锐评
 `爱来自 gitbox.hust.online`
+
+<details>
+
+<summary>
+2025 08 06
+</summary>
+
 > ### NAME
 > 
 > Etern-34520 - 全栈式版本控制强迫症患者
@@ -84,3 +91,57 @@ Java 狂热爱好者
 > ### SEE ALSO
 > 
 > vue-pwa-shaman(7), spring-boot-exorcist(3), 《代码大全》第17章"你的SQL不是你的SQL"
+
+</details>
+
+<details>
+
+<summary>
+2025 12 09
+</summary>
+
+> NAME
+> 
+> Etern-34520 - 全栈调试型代码园丁
+> 
+> SYNOPSIS
+> 
+> SpringBoot/Vue3 [--migrate --debug] | Minecraft模组开发
+> 
+> DESCRIPTION
+> 
+> 行为模式如同grep与sed的混合体，在代码丛林中精准狩猎bug。
+> 
+> 常见操作包括：
+> 
+> - 框架迁移手术（频率：高频）
+> - UI组件修复（频率：持续）
+> - 数据库版本升级（频率：季度）
+>
+> 像《百年孤独》里梅尔基亚德斯的羊皮卷，在commit记录中预演系统生命周期
+>
+> DIAGNOSTICS
+> 
+> 当遇到OAuth2令牌异常时会启动JWT验尸程序，
+>
+> 错误代码451暗示《华氏451》中的知识焚毁隐喻。
+>
+> 并发修改异常触发《等待戈多》式循环检测，
+>
+> 内存泄漏时引用《荒原》的"我要给你看恐惧在一把尘土里"
+>
+> BUGS
+>
+> 已知会将咖啡杯识别为调试器热启动按钮，
+>
+> 把Wiki文档更新误判为版本控制事件，
+>
+> 偶尔把现实世界的阴雨天编译成404错误页面
+>
+> SEE ALSO
+>
+> fullstack-gardener(7), 《代码大全》(3)
+>
+> 《春宵苦短，少女前进吧！》的数据库版本升级篇
+
+</details>
