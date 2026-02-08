@@ -8,45 +8,28 @@ ___
 
 ### 特点
 
-一个平时挺喜欢参加各种奇奇怪怪的 **科技类比赛** 但是 **偶尔有点文科生倾向但选了物化生** 的高中生罢了 (x)  
-两项计算机软件著作权持有者。  
-[MCSL开发组](https://github.com/MCSLTeam) 创始人、总开发。
+一个平时挺喜欢参加各种奇奇怪怪的 **科技类比赛** 但是 **偶尔有点文科生倾向但选了物化生** 的高三生罢了 (x)  
 
-E-mail：[lxhtt@mcsl.com.cn](mailto:lxhtt@mcsl.com.cn)  
-Or [lxhtt@vip.qq.com](mailto:lxhtt@vip.qq.com)
+一人独当两个年段的电教委员。  
+多项计算机软件著作权持有者。  
+DJI RMYC 2022 国赛第 9 名。
+2023年福建省中考英语状元。  
+AdventureX 2025 腾讯云智能体赛道二等奖。  
+多个团队的 Leader，统领超过 70 人。  
+对主流开发技术栈小有研究，已有多个生产项目。  
 
-~~群rbq，有时候会发电~~  
-~~刷机 60% 变砖头~~
+云上极致旗下 [MCSL开发组](https://github.com/MCSLTeam) 创始人、首席工程师，旗下 MCSL2 项目用户达 2w+；  
 
-### 编程语言
+[MagicEdge Network 幻缘网络](https://github.com/MagicEdgeNet) 总管理、首席工程师，旗下项目 [ME Frp 幻缘映射](https://www.mefrp.com) 的站长，项目用户近 5w，和团队创造大量营收。
 
-擅长：C/C++、Python、JavaScript、( HTML、CSS、Stylus )  
-在学：Node.js、Rust、C#、Golang
-
-### 项目
-
-
-MCServerLauncher Future 系列 <Badge type="info" text="基于 C# 的新一代服务器管理工具" />
-> [.NET Framework C# WPF 启动器 及 .NET C# 守护进程](https://github.com/MCSLTeam/MCServerLauncher-Future)  
-> [Vue 网页面板](https://github.com/MCSLTeam/MCServerLauncher-Future-Web)  
-> [Rust 守护进程](https://github.com/MCSLTeam/mcsl-daemon-rs)  
-  
-MCSL-Sync 系列 <Badge type="info" text="MC 服务器核心镜像站" />
-> [Backend 后端](https://github.com/MCSLTeam/MCSL-Sync-Backend)  
-> [Nodeside 节点端](https://github.com/MCSLTeam/MCSL-Sync-Nodeside)  
-> [Frontend 前端](https://github.com/MCSLTeam/MCSL-Sync-Frontend)
-
-   
-- [MCServerLauncher 2](https://github.com/MCSLTeam/MCSL2) <Badge type="info" text="基于 PyQt5 的MC开服器" />
-- [MEFrp-Launcher-Qt](https://github.com/LxHTT/MEFrp-Launcher-Qt)
-
-GitHub：<https://github.com/LxHTT>
+My email：[im@lxhtt.cn](mailto:im@lxhtt.cn)  
 
 ### 设备
 
-- 华为 MateStation B515 + GTX 1050 Ti **矿卡🤔**
-- MacBook Air ( Early 2014 )
-- 摔得稀烂还硬撑了一年的 iPhone 6s 32GB **极致の钉子户😅**
-- iPhone 11 256GB
+- 华为 MateStation B515 + GTX 1050 Ti **矿卡🤔**  
+- MacBook Air, Early 2014  
+- Xiaomi 10 Ultra  
+- iPhone 11  
+- Mac mini (2024)
 
 ___
