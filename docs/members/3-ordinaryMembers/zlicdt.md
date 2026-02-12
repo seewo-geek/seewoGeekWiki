@@ -1,3 +1,7 @@
+---
+layout: doc
+---
+
 # 由 AMD Ryzen 3 3200U 弱力驱动的 zlicdt 喵
 ![avatar](https://blog.zlicdt.top/img/fluid.webp)
 
