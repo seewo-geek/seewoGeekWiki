@@ -41,7 +41,7 @@ export default defineConfig({
     ],
     footer: {
       message: 'Released under the MIT License.',
-      copyright: 'Copyright © 2024 seewo-geek'
+      copyright: 'Copyright © 2026 seewo-geek'
     },
     editLink: {
       pattern: 'https://github.com/seewo-geek/seewoGeekWiki/edit/main/docs/:path',
