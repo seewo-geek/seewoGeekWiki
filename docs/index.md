@@ -19,6 +19,9 @@ hero:
     - theme: brand
       text: 入群测试
       link: https://exam.misaka.space/
+    - theme: brand
+      text: 新入群测试
+      link: https://checkin.pickybunny.fun/checkIn/exam
     - theme: alt
       text: 在 Github 上查看
       link: https://github.com/seewo-geek/seewoGeekWiki
