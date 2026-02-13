@@ -2,11 +2,11 @@
 # https://vitepress.dev/reference/default-theme-home-page
 layout: home
 
-title: SEEWO_GEEK
+title: Seewo_Geek
 titleTemplate: 希沃业绩售后冲击部官方 Wiki
 
 hero:
-  name: SEEWO_GEEK
+  name: Seewo_Geek
   text: </dev>
   tagline: 希沃业绩售后冲击部官方 Wiki
   image:
@@ -17,10 +17,10 @@ hero:
       text: 了解我们
       link: ./main/
     - theme: brand
-      text: 入群测试
+      text: 入群测试V3.1（高难度）
       link: https://exam.misaka.space/
     - theme: brand
-      text: 新入群测试
+      text: 入群测试V4.0（中难度）
       link: https://checkin.pickybunny.fun/checkIn/exam
     - theme: alt
       text: 在 Github 上查看
