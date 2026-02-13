@@ -10,7 +10,7 @@ export default defineConfig({
       AutoSidebar({deletePrefix:'index',ignoreIndexItem:true})
     ]
   },
-  title: "seewoGeekWiki",
+  title: "SeewoGeekWiki",
   description: "希沃售后冲击部官方 Wiki",
   head: [
     ['link', { rel: 'icon', href: '/img/logo.png' }],
