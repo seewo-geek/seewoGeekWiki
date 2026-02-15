@@ -29,3 +29,7 @@ comment: false
 ::: timeline 2025-01-05
 - 添加Seewo工具页
 :::
+
+::: timeline 2026-02-08
+- 入群测试4.0正式上线
+:::
