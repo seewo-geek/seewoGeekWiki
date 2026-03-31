@@ -103,7 +103,7 @@ comment: false
 另外，**群主和群管理员一般不会主动添加群U个人好友。** 若您收到类似邀请，请您注意核实对方身份信息，以免遭遇电信诈骗。
 
 群规的最终解释权归 SeewoGeek 管理组所有。
-我们也会根据社群实际情况持续修订规则，希望在清晰边界与良好体验之间保持平衡。
+若您对群规有任何疑问或建议，欢迎与[@不吃胡萝卜的兔子](https://wiki.misaka.space/members/1-coreMembers/%E4%B8%8D%E5%90%83%E8%83%A1%E8%90%9D%E5%8D%9C%E3%81%AE%E5%85%94%E5%AD%90.html)发起讨论
 
 <div style="text-align: right; font-size: 0.85em; color: var(--vp-c-text-2);">
 
