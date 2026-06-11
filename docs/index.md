@@ -22,9 +22,6 @@ hero:
     - theme: brand
       text: 入群测试V4.0（中难度）
       link: https://checkin.pickybunny.top/checkIn/exam
-    - theme: alt
-      text: 在 Github 上查看
-      link: https://github.com/seewo-geek/seewoGeekWiki
       
 features:
   - icon: 🧑
