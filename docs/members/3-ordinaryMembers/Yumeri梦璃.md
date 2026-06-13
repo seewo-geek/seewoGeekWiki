@@ -4,11 +4,11 @@
 
 在群里的ID:"  "(空白)
 
-年龄:23岁(你群前列)
+年龄:24岁(你群前列)
 
-物理坐标:山西太原
+物理坐标:湖北武汉(暂时)
 
-状态:考研中
+状态:失业中
 
 ~~性别:生理非二元(指性发育异常)，现🍥🏳️‍⚧️~~
 
@@ -25,8 +25,9 @@
 
 #### 手机
 
-- 主力机 : OPPO Find N3，搭载 OnePlus Open 的 OxygenOS 14，使用OPPO泄露的9008工具解锁了Bootloader，使用CTM,3HK eSIM + 中国联通SIM卡
-- 备用机 : iPhone SE 2020 (欧盟版本)，搭载iOS16.5，安装了TrollStore和Dopamine，使用CTM eSIM + 中国广电SIM卡
+- 主力机1 : iPhone 17 Pro Max LL/A,搭载eSIM与双实体SIM卡
+- 主力机2 : OnePlus 13 24+1TB, OxygenOS,搭载eSIM与一张实体SIM
+- 备用机们 : iPhone SE 2020 (欧盟版本,iOS16.5, eSIM与一张实体SIM)，OPPO Find N3(OxygenOS,OnePlus Open,eSIM与一张实体SIM)
 
 #### 平板
 
@@ -38,20 +39,24 @@ OPPO Watch 2，国行蜂窝42mm，使用CTM eSIM卡
 
 #### 耳机
 
+AirPods Pro 3(年轻人的第一个助听器)
 JBL Quantum TWS(电竞TWS即便不打电竞也超级好用)
 
 #### 笔记本
-- 主力机 MacBook Pro 14寸 2021，16G RAM，1TB Apple金子做的SSD
-- 备用机 蓝天N960SC，CPU i7-10700，GPU RTX2070，32G RAM，512G Samsung 970 Pro（于2020年矿潮时天价购入）
+- 主力机 MacBook Pro 14寸 2024，48G RAM，512GB SSD
+- 主力机 MacBook Pro 14寸 2021，16G RAM，1TB SSD
+- 备用机 蓝天N960SC，CPU i7-10700，GPU RTX2070，32G RAM，512G SSD
 
 #### 游戏机
 Nintendo Switch OLED，安装了RP2040芯片，操作系统：Lineage OS/Ubuntu 22.04 LTS/HorizonOS
 
 #### 路由器/NAS
 (在外独居，设备条件艰苦)
-- 主路由 树莓派4B 4GB，Immortalwrt
+- 主路由 Xiaomi AX3600 ImmortalWRT
+- AI路由 树莓派4B 4GB，PIOS
 - NAS/AllInOne 香橙派5 8GB，Ubuntu 22.04 LTS
-- 网络接入 中国联通300M/40M，公网IP接入
+- 网络接入 中国电信300M/50M，公网IP接入
+- 网络接入 SingTel LTE国际漫游
 
 ## 游戏喜好
 #### PC游戏
