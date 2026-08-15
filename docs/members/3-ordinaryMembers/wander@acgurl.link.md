@@ -1,25 +1,20 @@
 ---
 layout: doc
 ---
-![An image](https://www.acgurl.link/upload/qlogo.jpg)
+![An image](https://github.com/acgurl.png)
 
 ###  Age
-认真学习的一名**高中生**
+认真学习的一名**大学生**
 
 ###  Detail
-现居高考大省河南
-就读于一所普通县级重点中学
-时间紧迫放假极少（平均一月休息4天）
-曾于正月初三于千里之外的湖南被告知明天返校
-
-###  Blog
-欢迎来玩，互加友链
-[ACGURL](https://www.acgurl.link)
+就读于中国传媒大学
+智能科学与技术专业
 
 ###  Devices
 | Type | Description |
 | ----------- | ----------- |
-| Personal Computer | 联想某不知名笔记本 |
+| Laptop | HONOR Win H7（i7-14650HX + RTX 5060 Laptop） |
+| Phone | HONOR Power2（12GB + 512GB） |
 | Server | 腾讯云2h2g轻量服务器 |
 
 ###  Skills
@@ -32,9 +27,7 @@ layout: doc
 ###  Hobby
 -	GAME
   -		原神
-  ![ys](https://api.acgurl.link/ysh.php?style=@.webp)
   -		崩坏：星穹铁道
-  ![xq](https://api.acgurl.link/xq.php?style=@.webp)
 -	COLLECT
 	-	好用的软件
 	-	好用的网站
