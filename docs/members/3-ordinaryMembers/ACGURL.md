@@ -1,6 +1,9 @@
 ---
 layout: doc
 ---
+
+# ACGURL
+
 ![An image](https://github.com/acgurl.png)
 
 ###  Age
@@ -27,7 +30,9 @@ layout: doc
 ###  Hobby
 -	GAME
   -		原神
-  -		崩坏：星穹铁道
+  -		绝区零
+  -		崩坏：星穹铁道 *已退坑，账号已移交给同学*
+  -		舞萌DX *Rating: w3*
 -	COLLECT
 	-	好用的软件
 	-	好用的网站
