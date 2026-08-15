@@ -40,4 +40,4 @@ layout: doc
 ###	Contact
 [QQ](https://wpa.qq.com/msgrd?v=3&uin=1485942570&site=qq&menu=yes&jumpflag=1)
 [Github](https://github.com/acgurl)
-（不过估计我在线上的时间会很少）
+全天在线，消息秒回
