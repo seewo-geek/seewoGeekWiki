@@ -40,4 +40,5 @@ layout: doc
 ###	Contact
 [QQ](https://wpa.qq.com/msgrd?v=3&uin=1485942570&site=qq&menu=yes&jumpflag=1)
 [Github](https://github.com/acgurl)
+[Linux Do](https://linux.do/u/acgurl)
 全天在线，消息秒回
